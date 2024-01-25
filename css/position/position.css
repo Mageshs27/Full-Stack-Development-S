@@ -1,0 +1,30 @@
+
+
+
+/*  Relative
+.box1{
+	position:relative;
+	left:30px;
+    top: 30px;
+    }
+*/
+
+    /* Absolute
+
+    .main{
+       position: relative;
+    }
+    .box1{
+        position:absolute;
+        right:0;
+     }
+     */
+
+    /* Fixed
+     .box1{
+        position:fixed;
+        top:200px;
+        right: 200px;
+    }
+
+    */
